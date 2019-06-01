@@ -26,3 +26,6 @@ Assignment_3
 Assignment_4
 
   -Implement a multi-threaded program, in which each thread reads a file, parses the file, and synchronizes the results to global status     variables.
+
+Assignment_5
+  -Implement a socket-based server. This server can accept connections from clients and echo whatever message the client sends to it. The server also needs to log the address information of each client that it accepts.
