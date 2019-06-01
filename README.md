@@ -18,3 +18,11 @@ Midterm
 Makefile_example
   
   -Please create a Makefile to compile this program to "prog".
+
+Assignment_3
+
+  -Implement a shell program, which can run various shell commands (with options) from users
+  
+Assignment_4
+
+  -Implement a multi-threaded program, in which each thread reads a file, parses the file, and synchronizes the results to global status     variables.
